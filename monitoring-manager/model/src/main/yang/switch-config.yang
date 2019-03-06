@@ -1,0 +1,6 @@
+module switch-config{
+   yang-version 1;
+   namespace "urn:eu:virtuwind:switch";
+   prefix sconfig;
+   
+}
